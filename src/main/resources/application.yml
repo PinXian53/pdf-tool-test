@@ -1,0 +1,10 @@
+server:
+  port: 8080
+# itext 需要到官網申請試用 license
+itext:
+  license-key:
+# aspose 可以直接使用，但會有功能限制，完整試用需要到官網申請試用 license
+aspose:
+  license-key:
+    word:
+    pdf:

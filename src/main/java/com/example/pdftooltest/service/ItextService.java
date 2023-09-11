@@ -46,7 +46,6 @@ public class ItextService {
         }else {
             log.warn("Cant not load itext license key");
         }
-
     }
 
     @SneakyThrows
